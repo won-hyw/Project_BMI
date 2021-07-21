@@ -30,5 +30,12 @@
         android:textSize="15sp"
         android:textColor="#2196F3"
         android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/text_result2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#2196F3"
+        android:textStyle="bold"/>
 
 </LinearLayout>
